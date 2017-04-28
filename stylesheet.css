@@ -1,4 +1,12 @@
-margin-top: -20px;
+div {
+	border-radius: 5px;
+}
+
+#header {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
 	height: 60px;
 	background-color: #DEE4A1;
 	margin-bottom: 10px;
